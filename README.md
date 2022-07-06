@@ -15,6 +15,7 @@
 <a href="https://twitter.com/Nitin_dev3d">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
+<img src="https://komarev.com/ghpvc/?username=nitindev3d" alt="nitindev3d"/>
 <!-- <a href="https://vrukshalitorawane.medium.com/">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a> -->
