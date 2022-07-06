@@ -6,21 +6,21 @@
 
 
 
-<a href="https://www.linkedin.com/in/vrukshali-torawane">
+<a href="https://www.linkedin.com/in/srivastava-nitin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:vrukshalitorawane@gmail.com">
+<a href="mailto:nitin.dev3d@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/vrukshali26">
+<a href="https://twitter.com/Nitin_dev3d">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://vrukshalitorawane.medium.com/">
+<!-- <a href="https://vrukshalitorawane.medium.com/">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+</a> -->
+<!-- <a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+</a> -->
 <br>
 
 ## 🎓 About me
