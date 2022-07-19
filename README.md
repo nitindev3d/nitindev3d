@@ -44,8 +44,6 @@
 
 ## Achievements 🏆
 
-![visitors](https://profile-counter.glitch.me/nitindev3d/count.svg?align=center) 
-
 ## Global Certification 🎓
 
 
