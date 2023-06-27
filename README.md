@@ -25,7 +25,7 @@
 <br>
 
 ## 🎓 About me
-• I’m have completed my Bachelors in Computer Science & Engineering <br />
+• Breaking my code everyday and wondering why I do it anyway.. <br />
 <!-- • I'm [EX294 - Automation with Ansible - RedHat Certified Engineer](https://rhtapps.redhat.com/verify?certId=210-076-055) and [EX180 - RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055)  <br /> -->
 • Web2 and Web3 Enthusiast.
 
